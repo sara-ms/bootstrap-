@@ -1,0 +1,22 @@
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.blue {
+    background-color: blue;
+}
+.container-height {
+    height: 800px;
+}
+.row-height {
+    height: 50%;
+}
+.text {
+    text-align: center;
+    padding-top: 15%;
+}
